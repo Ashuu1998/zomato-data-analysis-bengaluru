@@ -3,7 +3,9 @@
 
 🔗 Power BI Dashboard: [Download Here](https://drive.google.com/file/d/1_rj80YrKp2_kNJW2DFfI79XnaNOzqumu/view?usp=sharing)
 
-🔗 Dataset: [Download Here](https://drive.google.com/file/d/1ZxnhJ0vWVbydDPDehgsin_7eeHUyxE-C/view?usp=sharing))
+🔗 Dataset: [Download Here](https://drive.google.com/file/d/1ZxnhJ0vWVbydDPDehgsin_7eeHUyxE-C/view?usp=sharing)
+
+🔗 Presentation: [Download Here][(https://docs.google.com/presentation/d/1MPlA0krC687hbyhY3OFkY5zeTI_iXGln/edit?usp=sharing&ouid=105954469890446625509&rtpof=true&sd=true)]
 
 #  Zomato-data-analysis-bengaluru 
 
